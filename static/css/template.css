@@ -1,0 +1,6 @@
+/* standard CSS tags modified */
+.style1 { color: #666666; }
+.tabletop { border: 1px solid #c0c0c0; border-top: 7px solid #92A0B9;}
+.style2 { font-weight: bold; color: #92A0B9; }
+.style3 { color: #666666; height: 240px; overflow-y:auto }
+td.button {display: block; border:1px solid #666; background-color: #efefef; }
